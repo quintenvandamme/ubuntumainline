@@ -10,7 +10,7 @@
 
 ### amd64
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/catalog/5.9-rc1/rm.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/catalog/5.9-rc1/wgetrm.sh | sh`
 
 
 
