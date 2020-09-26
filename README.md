@@ -1,5 +1,5 @@
 # ubuntumainline
-script for installing the latest mainlin kernel on ubuntu
+script for installing the latest mainline kernel on ubuntu 
 
 ## installation
 
