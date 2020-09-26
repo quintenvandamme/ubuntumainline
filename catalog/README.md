@@ -7,6 +7,7 @@
 - [linux 5.9-rc3](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.9-rc3)&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.9-rc3/README.md)
 - [linux 5.9-rc2](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.9-rc2)&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.9-rc2/README.md)
 - [linux 5.9-rc1](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.9-rc1)&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.9-rc1/README.md)
+- [linux 5.8.12](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.12)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.12/README.md)
 - [linux 5.8.11](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.11)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.11/README.md)
 - [linux 5.8.10](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.10/README.md)
 - [linux 5.8.9](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.9/README.md)
@@ -16,3 +17,4 @@
 - [linux 5.8.5](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.5/README.md)
 - [linux 5.8.4](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.4/README.md)
 - [linux 5.8.3](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.3/README.md)
+- [linux 5.4.68](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.4.68)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.4.68/README.md)
