@@ -18,4 +18,5 @@
 - [linux 5.8.5](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.5/README.md)
 - [linux 5.8.4](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.4/README.md)
 - [linux 5.8.3](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.8.3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.8.3/README.md)
+- [linux 5.4.69](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.4.69)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.4.69/README.md)
 - [linux 5.4.68](https://github.com/HexaOneOfficial/ubuntumainline/tree/master/catalog/5.4.68)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](https://github.com/HexaOneOfficial/ubuntumainline/blob/master/catalog/5.4.68/README.md)
