@@ -21,6 +21,9 @@ script for installing the latest mainline kernel on ubuntu
 
 want a older kernel go to [here](./catalog/README.md).
 
+
+## info
+
 gitlab mirror [here](https://gitlab.com/HexaOneOfficial/ubuntumainline)
 
 kernel by https://kernel.ubuntu.com/
