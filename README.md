@@ -3,6 +3,10 @@ script for installing the latest mainline kernel on ubuntu
 
 ## installation
 
+### requirements
+
+- you wanna have curl and wget installed if not you can do it by `sudo apt install curl wget`
+
 ### amd64
 
 **mainline**
