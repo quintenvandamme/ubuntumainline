@@ -5,7 +5,8 @@ script for installing the latest mainline kernel on ubuntu
 
 ### requirements
 
-- you wanna have [curl](https://curl.haxx.se/) and [wget](https://www.gnu.org/software/wget/) installed if not you can do it by `sudo apt install curl wget`
+- you wanna have [curl](https://curl.haxx.se/) and [wget](https://www.gnu.org/software/wget/) installed if not you can do it by `sudo apt install curl wget`.
+- its recommended to make a backup of you grub.cfg you can do it by `sudo cp /boot/grub/grub.cfg /boot/grub/grub.cfg.bak`.
 
 ### amd64
 
