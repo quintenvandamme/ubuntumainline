@@ -1,6 +1,7 @@
 # catalog
  
 ## catalog for linux kernels scripts
+- [linux 5.9-rc8](./5.9-rc8)&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.9-rc8/README.md)
 - [linux 5.9-rc7](./5.9-rc7)&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.9-rc7/README.md)
 - [linux 5.9-rc6](./5.9-rc6)&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.9-rc6/README.md)
 - [linux 5.9-rc5](./5.9-rc5)&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.9-rc5/README.md)
