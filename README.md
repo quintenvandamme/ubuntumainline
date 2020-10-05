@@ -23,6 +23,12 @@ script for installing the latest mainline kernel on ubuntu
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/amd64RC.sh | sh`
 
+### arm64
+
+**rc kernel**
+
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/arm64RC.sh | sh`
+
 ## catalog
 
 - want a older kernel go to [catalog page](./catalog/README.md).
