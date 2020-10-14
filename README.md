@@ -44,4 +44,5 @@ script for installing the latest mainline kernel on ubuntu
 ## info
 
 - [gitlab mirror](https://gitlab.com/HexaOneOfficial/ubuntumainline)
+- the branch [master](https://github.com/HexaOneOfficial/ubuntumainline/tree/master) will be removed at they of end 2020 for compatibility.
 - kernel by https://kernel.ubuntu.com/
