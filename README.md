@@ -13,29 +13,29 @@ script for installing the latest mainline kernel on ubuntu
 
 **mainline**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/amd64.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh`
 
 **stable**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/amd64STABLE.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64STABLE.sh | sh`
 
 **rc kernel**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/amd64RC.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh`
 
 ### arm64
 
 **mainline**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/arm64.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh`
 
 **stable**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/arm64STABLE.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64STABLE.sh | sh`
 
 **rc kernel**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/master/arm64RC.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh`
 
 ## catalog
 
