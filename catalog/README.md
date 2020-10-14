@@ -22,6 +22,7 @@
 - [linux 5.8.5](./5.8.5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.8.5/README.md)
 - [linux 5.8.4](./5.8.4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.8.4/README.md)
 - [linux 5.8.3](./5.8.3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.8.3/README.md)
-- [linux 5.4.70](./5.4.69)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.4.70/README.md)
+- [linux 5.4.71](./5.4.71)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.4.71/README.md)
+- [linux 5.4.70](./5.4.70)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.4.70/README.md)
 - [linux 5.4.69](./5.4.69)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.4.69/README.md)
 - [linux 5.4.68](./5.4.68)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](./5.4.68/README.md)
