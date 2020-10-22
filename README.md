@@ -13,13 +13,13 @@ script for installing the latest mainline kernel on ubuntu
 
 | platform        | version         | install      |      
 | -----------  | ----------- | ----------- | 
-| AMD64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh`|  
-| AMD64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64STABLE.sh | sh`|    
-| AMD64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh`|  
+| AMD64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh` |  
+| AMD64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64STABLE.sh | sh` |    
+| AMD64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh` |  
 |||
-| ARM64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh`|  
-| ARM64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64STABLE.sh | sh`|    
-| ARM64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh`|  
+| ARM64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh` |  
+| ARM64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64STABLE.sh | sh` |    
+| ARM64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh` |  
 
 
 
