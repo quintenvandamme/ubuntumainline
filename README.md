@@ -9,45 +9,31 @@ script for installing the latest mainline kernel on ubuntu
 - its recommended to make a backup of you grub.cfg you can do it by `sudo cp /boot/grub/grub.cfg /boot/grub/grub.cfg.bak`.
 - **!** note these kernels don't work with nvidia drivers. you pc will fail to boot.
 
-
-
-| platform        | version         | install      |      
-| -----------  | ----------- | ----------- | 
-| AMD64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh` |  
-| AMD64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64STABLE.sh | sh` |    
-| AMD64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh` |  
-|||
-| ARM64 | 5.9.1       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh` |  
-| ARM64 | 5.4.72     | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64STABLE.sh | sh` |    
-| ARM64 | 5.9-rc8       | `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh` |  
-
-
-
 ### amd64
 
-**mainline**
+**mainline 5.9.1**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh`
 
-**stable**
+**stable 5.4.72**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64STABLE.sh | sh`
 
-**rc kernel**
+**rc kernel 5.9-rc8**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh`
 
 ### arm64
 
-**mainline**
+**mainline 5.9.1**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh`
 
-**stable**
+**stable 5.4.72**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64STABLE.sh | sh`
 
-**rc kernel**
+**rc kernel 5.9-rc8**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh`
 
