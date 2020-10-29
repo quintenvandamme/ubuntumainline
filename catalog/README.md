@@ -2,6 +2,7 @@
  
 ## catalog for linux kernels scripts
 
+- [linux 5.10-rc1](5.10-rc1)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc1/README.md)
 - [linux 5.9.2](5.9.2)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.2/README.md)
 - [linux 5.9.1](5.9.1)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.1/README.md)
 - [linux 5.9](5.9)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9/README.md)
