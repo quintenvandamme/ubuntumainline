@@ -4,7 +4,7 @@
 
 ### install
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.4.73/amd64STABLE.sh | sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.4.73/amd64LTS.sh | sh`
  
 ### remove
   
@@ -15,7 +15,7 @@
 
 ### install
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.4.73/arm64STABLE.sh| sh`
+- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.4.73/arm64LTS.sh| sh`
  
 ### remove
 
