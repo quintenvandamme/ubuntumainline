@@ -11,29 +11,29 @@ script for installing the latest mainline kernel on ubuntu
 
 ### amd64
 
-**mainline kernel 5.9.2**
+**mainline kernel 5.9.3**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh`
 
-**lts kernel 5.4.73**
+**lts kernel 5.4.74**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64LTS.sh | sh`
 
-**rc kernel 5.10-rc1**
+**rc kernel 5.10-rc2**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh`
 
 ### arm64
 
-**mainline kernel 5.9.2**
+**mainline kernel 5.9.3**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh`
 
-**lts kernel 5.4.73**
+**lts kernel 5.4.74**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64LTS.sh | sh`
 
-**rc kernel 5.10-rc1**
+**rc kernel 5.10-rc2**
 
 - `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh`
 
