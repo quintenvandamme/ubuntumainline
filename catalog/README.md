@@ -5,6 +5,7 @@
 - [linux 5.10-rc2](5.10-rc2)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc2/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc2/)
 - [linux 5.10-rc1](5.10-rc1)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc1/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc1/)
 - [linux 5.9.6](5.9.6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.6/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.6/)
+- [linux 5.9.5](5.9.5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.5/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.5/)
 - [linux 5.9.4](5.9.4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.4/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.4/)
 - [linux 5.9.3](5.9.3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.3/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.3/)
 - [linux 5.9.2](5.9.2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.9.2/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.2/)
