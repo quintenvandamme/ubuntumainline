@@ -39,7 +39,7 @@ script for installing the latest mainline kernel on ubuntu
 
 ## catalog
 
-- want a older kernel go to [catalog page](catalog/README.md).
+- want a older kernel go to [catalog page](../catalog/README.md).
 
 ## info
 
