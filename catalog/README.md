@@ -2,6 +2,7 @@
  
 ## catalog for linux kernels scripts
 
+- [linux 5.10-rc3](5.10-rc4)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc4/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc4/)
 - [linux 5.10-rc3](5.10-rc3)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc3/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc3/)
 - [linux 5.10-rc2](5.10-rc2)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc2/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc2/)
 - [linux 5.10-rc1](5.10-rc1)&nbsp;&nbsp;&nbsp;&nbsp;[README](5.10-rc1/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc1/)
