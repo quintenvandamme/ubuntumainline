@@ -13,36 +13,41 @@ script for installing the latest mainline kernel on ubuntu
 
 **mainline kernel 5.9.12**
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh`
-
-**lts kernel 5.4.82**
-
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64LTS.sh | sh`
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64.sh | sh
+```
+**lts kernel 5.4.83**
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64LTS.sh | sh
+```
 
 **rc kernel 5.10-rc6**
-
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh`
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh
+```
 
 ### arm64
 
 **mainline kernel 5.9.12**
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh
+```
 
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64.sh | sh`
-
-**lts kernel 5.4.82**
-
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64LTS.sh | sh`
+**lts kernel 5.4.83**
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64LTS.sh | sh
+```
 
 **rc kernel 5.10-rc6**
-
-- `curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh`
+```bash
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/arm64RC.sh | sh
+```
 
 ## catalog
 
-- want a older kernel go to [catalog page](../catalog/README.md).
+- want a older kernel go to [`catalog page`](../catalog/README.md).
 
 ## info
 
-- [gitlab mirror](https://gitlab.com/HexaOneOfficial/ubuntumainline)
-- the branch [master](https://github.com/HexaOneOfficial/ubuntumainline/tree/master) will be removed at they of end 2020 for compatibility.
-- kernel by https://kernel.ubuntu.com/
+- [`gitlab mirror`](https://gitlab.com/HexaOneOfficial/ubuntumainline)
+- kernel by [`https://kernel.ubuntu.com`](https://kernel.ubuntu.com/)
