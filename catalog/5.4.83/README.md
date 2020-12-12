@@ -24,4 +24,4 @@ sudo chmod +x rm.sh && sudo ./rm.sh
 ``` 
  
  
-kernel by https://kernel.ubuntu.com/
+kernel by [`https://kernel.ubuntu.com`](https://kernel.ubuntu.com/)
