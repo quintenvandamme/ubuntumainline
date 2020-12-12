@@ -43,6 +43,7 @@
 - [linux 5.8.5](5.8.5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.8.5/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.5/)
 - [linux 5.8.4](5.8.4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.8.4/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.4/)
 - [linux 5.8.3](5.8.3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.8.3/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.3/)
+- [linux 5.4.83](5.4.83)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.4.83/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/)
 - [linux 5.4.82](5.4.82)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.4.82/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.82/)
 - [linux 5.4.81](5.4.81)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.4.81/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.81/)
 - [linux 5.4.80](5.4.80)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[README](5.4.80/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.80/)
