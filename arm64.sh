@@ -1,9 +1,9 @@
 # downloads linux and linux headers
-mkdir /tmp/ubuntukernel5.9.12
-cd /tmp/ubuntukernel5.9.12
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.12/arm64/linux-headers-5.9.12-050912-generic_5.9.12-050912.202012020835_arm64.deb
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.12/arm64/linux-image-5.9.12-050912-generic_5.9.12-050912.202012020835_arm64.deb
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.12/arm64/linux-modules-5.9.12-050912-generic_5.9.12-050912.202012020835_arm64.deb
+mkdir /tmp/ubuntukernel5.10.1
+cd /tmp/ubuntukernel5.10.1
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.1/arm64/linux-headers-5.10.1-051001-generic_5.10.1-051001.202012142031_arm64.deb
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.1/arm64/linux-image-5.10.1-051001-generic_5.10.1-051001.202012142031_arm64.deb
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.1/arm64/linux-modules-5.10.1-051001-generic_5.10.1-051001.202012142031_arm64.deb
 sudo dpkg -i *.deb
 cd
-rm -r /tmp/ubuntukernel5.9.12
+rm -r /tmp/ubuntukernel5.10.1
