@@ -12,6 +12,7 @@
 |[`5.10-rc3`](5.10-rc3)|[`README`](5.10-rc3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc3/)| 
 |[`5.10-rc2`](5.10-rc2)|[`README`](5.10-rc2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc2/)| 
 |[`5.10-rc1`](5.10-rc1)|[`README`](5.10-rc1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc1/)| 
+|[`5.9.15`](5.9.15)|[`README`](5.9.15/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.15/)| 
 |[`5.9.12`](5.9.12)|[`README`](5.9.12/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.12/)| 
 |[`5.9.10`](5.9.10)|[`README`](5.9.10/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.10/)| 
 |[`5.9.8`](5.9.8)|[`README`](5.9.8/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.9.8/)| 
@@ -47,6 +48,7 @@
 |[`5.8.5`](5.8.5)|[`README`](5.8.5/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.5/)| 
 |[`5.8.4`](5.8.4)|[`README`](5.8.4/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.4/)| 
 |[`5.8.3`](5.8.3)|[`README`](5.8.3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8.3/)| 
+|[`5.4.84`](5.4.84)|[`README`](5.4.84/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.84/)| 
 |[`5.4.83`](5.4.83)|[`README`](5.4.83/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.83/)| 
 |[`5.4.82`](5.4.82)|[`README`](5.4.82/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.82/)| 
 |[`5.4.81`](5.4.81)|[`README`](5.4.81/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.4.81/)| 
