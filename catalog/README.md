@@ -4,6 +4,7 @@
 
 | Kernel| Readme|Website|      
 | -----------  | -----------  | ----------- | 
+|[`5.10.4`](5.10.4)|[`README`](5.10.4/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.4/)| 
 |[`5.10.3`](5.10.3)|[`README`](5.10.3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.3/)| 
 |[`5.10.2`](5.10.2)|[`README`](5.10.2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.2/)| 
 |[`5.10.1`](5.10.1)|[`README`](5.10.1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.1/)| 
