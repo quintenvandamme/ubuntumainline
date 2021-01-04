@@ -1,10 +1,10 @@
 # downloads linux and linux headers
-mkdir /tmp/ubuntukernel5.10-rc6
-cd /tmp/ubuntukernel5.10-rc6
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc6/amd64/linux-headers-5.10.0-051000rc6-generic_5.10.0-051000rc6.202011291930_amd64.deb
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc6/amd64/linux-headers-5.10.0-051000rc6_5.10.0-051000rc6.202011291930_all.deb
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc6/amd64/linux-image-unsigned-5.10.0-051000rc6-generic_5.10.0-051000rc6.202011291930_amd64.deb
-wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10-rc6/amd64/linux-modules-5.10.0-051000rc6-generic_5.10.0-051000rc6.202011291930_amd64.deb
+mkdir /tmp/ubuntukernel5.11-rc2
+cd /tmp/ubuntukernel5.11-rc2
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc2/amd64/linux-headers-5.11.0-051100rc2-generic_5.11.0-051100rc2.202101032030_amd64.deb
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc2/amd64/linux-headers-5.11.0-051100rc2_5.11.0-051100rc2.202101032030_all.deb
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc2/amd64/linux-image-unsigned-5.11.0-051100rc2-generic_5.11.0-051100rc2.202101032030_amd64.deb
+wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc2/amd64/linux-modules-5.11.0-051100rc2-generic_5.11.0-051100rc2.202101032030_amd64.deb
 sudo dpkg -i *.deb
 cd
-rm -r /tmp/ubuntukernel5.10-rc6
+rm -r /tmp/ubuntukernel5.11-rc2
