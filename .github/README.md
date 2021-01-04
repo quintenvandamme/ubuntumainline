@@ -21,7 +21,7 @@ curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/am
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64LTS.sh | sh
 ```
 
-**rc kernel 5.10-rc6**
+**rc kernel 5.11-rc2**
 ```bash
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/amd64RC.sh | sh
 ```
