@@ -4,7 +4,7 @@
 
 ### install
 ```bash
-curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.8.90/amd64LTS.sh | sh
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.4.90/amd64LTS.sh | sh
 ``` 
 ### remove
 ```bash
