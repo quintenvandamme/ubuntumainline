@@ -28,14 +28,14 @@ curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/ca
 
 ### arm64
 
-**mainline kernel 5.10.9**
+**mainline kernel 5.10.10**
 ```bash
-curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.9/arm64.sh | sh
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.10/arm64.sh | sh
 ```
 
-**lts kernel 5.10.9**
+**lts kernel 5.10.10**
 ```bash
-curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.9/arm64.sh | sh
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.10/arm64.sh | sh
 ```
 
 ## catalog
