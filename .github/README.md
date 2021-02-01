@@ -21,9 +21,9 @@ curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/ca
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.12/amd64.sh | sh
 ```
 
-**rc kernel 5.11-rc5**
+**rc kernel 5.11-rc6**
 ```bash
-curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11-rc5/amd64RC.sh | sh
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11-rc6/amd64RC.sh | sh
 ```
 
 ### arm64
@@ -38,9 +38,9 @@ curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/ca
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.12/arm64.sh | sh
 ```
 
-**rc kernel 5.11-rc5**
+**rc kernel 5.11-rc6**
 ```bash
-curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11-rc5/arm64RC.sh | sh
+curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11-rc6/arm64RC.sh | sh
 ```
 
 ## catalog
