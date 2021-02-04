@@ -11,12 +11,12 @@ script for installing the latest mainline kernel on ubuntu and ubuntu based dist
 
 ### amd64
 
-**mainline kernel 5.10.12**
+**mainline kernel 5.10.13**
 
 ```bash
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.13/amd64.sh | sh
 ```
-**lts kernel 5.10.12**
+**lts kernel 5.10.13**
 ```bash
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.13/amd64.sh | sh
 ```
@@ -28,12 +28,12 @@ curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/ca
 
 ### arm64
 
-**mainline kernel 5.10.12**
+**mainline kernel 5.10.13**
 ```bash
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.13/arm64.sh | sh
 ```
 
-**lts kernel 5.10.12**
+**lts kernel 5.10.13**
 ```bash
 curl -s https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.13/arm64.sh | sh
 ```
