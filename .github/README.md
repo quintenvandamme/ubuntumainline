@@ -38,7 +38,7 @@ cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainlin
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.14/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**rc kernel 5.11-rc6**
+**rc kernel 5.11-rc7**
 ```bash
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11-rc7/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
