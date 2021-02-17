@@ -16,9 +16,9 @@ script for installing the latest mainline kernel on ubuntu and ubuntu based dist
 ```bash
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
-**lts kernel 5.10.16**
+**lts kernel 5.10.17**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.16/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.17/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 **rc kernel 5.11-rc7**
@@ -33,9 +33,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainlin
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**lts kernel 5.10.16**
+**lts kernel 5.10.17**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.16/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.17/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 **rc kernel 5.11-rc7**
