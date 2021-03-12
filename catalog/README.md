@@ -5,6 +5,9 @@
 | Kernel| Readme|Website|      
 | -----------  | -----------  | ----------- | 
 |[`5.12-rc2`](5.12-rc2)|[`README`](5.12-rc2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12-rc2/)| 
+|[`5.11.6`](5.11.6)|[`README`](5.11.6/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11.6/)| 
+|[`5.11.5`](5.11.5)|[`README`](5.11.5/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11.5/)| 
+|[`5.11.4`](5.11.4)|[`README`](5.11.4/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11.4/)| 
 |[`5.11.3`](5.11.3)|[`README`](5.11.3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11.3/)| 
 |[`5.11`](5.11)|[`README`](5.11/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11/)|
 |[`5.11-rc7`](5.11-rc7)|[`README`](5.11-rc7/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc7/)| 
@@ -13,6 +16,9 @@
 |[`5.11-rc4`](5.11-rc4)|[`README`](5.11-rc4/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc4/)| 
 |[`5.11-rc3`](5.11-rc3)|[`README`](5.11-rc3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc3/)| 
 |[`5.11-rc2`](5.11-rc2)|[`README`](5.11-rc2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11-rc2/)| 
+|[`5.10.23`](5.10.23)|[`README`](5.10.23/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.23/)| 
+|[`5.10.22`](5.10.22)|[`README`](5.10.22/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.22/)| 
+|[`5.10.21`](5.10.21)|[`README`](5.10.21/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.21/)| 
 |[`5.10.20`](5.10.20)|[`README`](5.10.20/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.20/)| 
 |[`5.10.17`](5.10.17)|[`README`](5.10.17/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.17/)|
 |[`5.10.16`](5.10.16)|[`README`](5.10.16/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.16/)| 

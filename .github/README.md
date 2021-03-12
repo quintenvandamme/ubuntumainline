@@ -11,14 +11,14 @@ script for installing the latest mainline kernel on ubuntu and ubuntu based dist
 
 ### amd64
 
-**mainline kernel 5.11.3**
+**mainline kernel 5.11.6**
 
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11.3/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11.6/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
-**lts kernel 5.10.20**
+**lts kernel 5.10.23**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.20/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.23/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 **rc kernel 5.12-rc2**
@@ -28,14 +28,14 @@ cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainlin
 
 ### arm64
 
-**mainline kernel 5.11.3**
+**mainline kernel 5.11.6**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11.3/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.11.6/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**lts kernel 5.10.20**
+**lts kernel 5.10.23**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.20/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.23/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 **rc kernel 5.12-rc2**
