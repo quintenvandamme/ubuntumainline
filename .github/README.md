@@ -21,9 +21,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainlin
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.25/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
-**rc kernel 5.12-rc3**
+**rc kernel 5.12-rc4**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.12-rc3/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.12-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 ### arm64
@@ -38,9 +38,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainlin
 cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.10.25/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**rc kernel 5.12-rc3**
+**rc kernel 5.12-rc4**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.12-rc3/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/HexaOneOfficial/ubuntumainline/main/catalog/5.12-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 ## catalog
