@@ -49,5 +49,5 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 
 ## info
 
-- [`gitlab mirror`](https://gitlab.com/HexaOneOfficial/ubuntumainline)
+- [`gitlab mirror`](https://gitlab.com/hexa-one/ubuntumainline)
 - kernel by [`https://kernel.ubuntu.com`](https://kernel.ubuntu.com/)
