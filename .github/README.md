@@ -11,14 +11,15 @@ script for installing the latest mainline kernel on ubuntu and ubuntu based dist
 
 ### amd64
 
-**mainline kernel 5.11.11**
+**mainline kernel 5.11.12**
 
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.11.11/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.11.12/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
-**lts kernel 5.10.27**
+**lts kernel 5.10.28**
+
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.27/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.28/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 **rc kernel 5.12-rc6**
@@ -28,14 +29,14 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 
 ### arm64
 
-**mainline kernel 5.11.11**
+**mainline kernel 5.11.12**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.11.11/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.11.12/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**lts kernel 5.10.27**
+**lts kernel 5.10.28**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.27/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.28/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 **rc kernel 5.12-rc6**
