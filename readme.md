@@ -1,7 +1,7 @@
 <div align="center">
   <a align="center">
     <center align="center">
-      <img src="assets/Ubuntumainline-v1.0.png" alt="ubuntumainline" align="center">
+      <img src="assets/Ubuntumainline-v1-400.png" alt="ubuntumainline" align="center">
     </center>
   </a>
   <br>
