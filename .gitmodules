@@ -1,0 +1,3 @@
+[submodule "mainline-builder"]
+	path = mainline-builder
+	url = https://github.com/hexa-one/mainline-builder.git
