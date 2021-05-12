@@ -4,6 +4,7 @@
 
 | Kernel| Readme|Website|      
 | -----------  | -----------  | ----------- | 
+|[`5.13-rc1`](5.13-rc1)|[`README`](5.13-rc1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/)| 
 |[`5.12.3`](5.12.3)|[`README`](5.12.3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.3/)| 
 |[`5.12.2`](5.12.2)|[`README`](5.12.2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.2/)| 
 |[`5.12.1`](5.12.1)|[`README`](5.12.1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.1/)| 

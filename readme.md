@@ -32,9 +32,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.35/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
-**rc kernel 5.12-rc7**
+**rc kernel 5.13-rc1**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.12-rc7/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc1/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 ### arm64
