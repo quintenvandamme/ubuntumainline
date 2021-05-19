@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 KERNEL_VER="5.12.3"
-VER_STR="05123"
+VER_STR="051203"
 
 while [[ $# -gt 0 ]]; do
   PROG_ARGS+=("${1}")

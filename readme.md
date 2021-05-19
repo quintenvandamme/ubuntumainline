@@ -21,7 +21,7 @@
 
 ### amd64
 
-**mainline kernel 5.12.4**
+**mainline kernel 5.12.5**
 
 ```bash
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.12.4/install.sh && chmod +x install.sh && sudo ./install.sh -amd
