@@ -6,6 +6,7 @@
 | -----------  | -----------  | ----------- | 
 |[`5.13-rc2`](5.13-rc2)|[`README`](5.13-rc2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc2/)|
 |[`5.13-rc1`](5.13-rc1)|[`README`](5.13-rc1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/)| 
+|[`5.12.6`](5.12.6)|[`README`](5.12.6/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.6/)| 
 |[`5.12.5`](5.12.5)|[`README`](5.12.5/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.5/)| 
 |[`5.12.4`](5.12.4)|[`README`](5.12.4/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.4/)| 
 |[`5.12.3`](5.12.3)|[`README`](5.12.3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.3/)| 
