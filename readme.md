@@ -33,9 +33,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 ```
 
 **rc kernel 5.13-rc2**
-`
+```bash
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc2/install.sh && chmod +x install.sh && sudo ./install.sh -amd
-`
+```
 
 ### arm64
 
