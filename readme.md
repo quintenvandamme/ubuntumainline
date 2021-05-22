@@ -62,3 +62,13 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 
 - [`gitlab mirror`](https://gitlab.com/hexa-one/ubuntumainline)
 - kernel by [`https://kernel.ubuntu.com`](https://kernel.ubuntu.com/)
+
+# License
+
+<a href="https://opensource.org/licenses/MIT">
+  <img align="right" height="96" alt="MIT License" src="manual/mit-license.png" />
+</a>
+
+The skift operating system and its core components are licensed under the **MIT License**.
+
+The full text of the license can be accessed via [this link](https://opensource.org/licenses/MIT) and is also included in the [license.md](license.md) file of this software package.
