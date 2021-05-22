@@ -28,31 +28,31 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 ```
 **lts kernel 5.10.35**
 
-```bash
+`
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.35/install.sh && chmod +x install.sh && sudo ./install.sh -amd
-```
+`
 
 **rc kernel 5.13-rc2**
-```bash
+`
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc2/install.sh && chmod +x install.sh && sudo ./install.sh -amd
-```
+`
 
 ### arm64
 
 **mainline kernel 5.12.4**
-```bash
+`
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.12.4/install.sh && chmod +x install.sh && sudo ./install.sh -arm
-```
+`
 
 **lts kernel 5.10.35**
-```bash
+`
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.35/install.sh && chmod +x install.sh && sudo ./install.sh -arm
-```
+`
 
 **rc kernel 5.13-rc2**
-```bash
+`
 cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc2/install.sh && chmod +x install.sh && sudo ./install.sh -arm
-```
+`
 
 ## catalog
 
