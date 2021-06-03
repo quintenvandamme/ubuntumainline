@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 
-KERNEL_VER="5.13-rc1"
+KERNEL_VER="5.13-rc4"
 VER_STAND="5.13.0"
-VER_STR="051300rc1"
+VER_STR="051300rc4"
 
 while [[ $# -gt 0 ]]; do
   PROG_ARGS+=("${1}")
@@ -10,10 +10,10 @@ while [[ $# -gt 0 ]]; do
     -amd|--amd64)
       mkdir /tmp/ubuntukernel$KERNEL_VER
       cd /tmp/ubuntukernel$KERNEL_VER
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/amd64/linux-headers-5.13.0-051300rc1-generic_5.13.0-051300rc1.202105092230_amd64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/amd64/linux-headers-5.13.0-051300rc1_5.13.0-051300rc1.202105092230_all.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/amd64/linux-image-unsigned-5.13.0-051300rc1-generic_5.13.0-051300rc1.202105092230_amd64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/amd64/linux-modules-5.13.0-051300rc1-generic_5.13.0-051300rc1.202105092230_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/amd64/linux-headers-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/amd64/linux-headers-5.13.0-051300rc4_5.13.0-051300rc4.202105302331_all.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/amd64/linux-image-unsigned-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/amd64/linux-modules-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_amd64.deb
       sudo dpkg -i *.deb
       cd
       rm -r /tmp/ubuntukernel$KERNEL_VER
@@ -26,6 +26,14 @@ while [[ $# -gt 0 ]]; do
       break
       ;;
     -arm|--arm64)
+      mkdir /tmp/ubuntukernel$KERNEL_VER
+      cd /tmp/ubuntukernel$KERNEL_VER
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/arm64/linux-headers-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_arm64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/arm64/linux-image-unsigned-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_arm64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc4/arm64/linux-modules-5.13.0-051300rc4-generic_5.13.0-051300rc4.202105302331_arm64.deb
+      sudo dpkg -i *.deb
+      cd
+      rm -r /tmp/ubuntukernel$KERNEL_VER
       break
       ;;      
     -r|--remove)

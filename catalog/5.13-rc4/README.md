@@ -1,14 +1,26 @@
-# linux 5.13-rc1
+# linux 5.13-rc4
 
 ## amd64
 
 ### install
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc1/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ``` 
 ### remove
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc1/install.sh && chmod +x install.sh && sudo ./install.sh -r
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -r
 ```
+
+## arm64
+
+### install
+```bash
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+```
+### remove
+```bash
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -r
+```
+
  
 kernel by [`https://kernel.ubuntu.com`](https://kernel.ubuntu.com/)
