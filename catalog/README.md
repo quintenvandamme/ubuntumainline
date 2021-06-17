@@ -8,6 +8,7 @@
 |[`5.13-rc3`](5.13-rc3)|[`README`](5.13-rc3/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc3/)|
 |[`5.13-rc2`](5.13-rc2)|[`README`](5.13-rc2/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc2/)|
 |[`5.13-rc1`](5.13-rc1)|[`README`](5.13-rc1/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13-rc1/)| 
+|[`5.12.11`](5.12.11)|[`README`](5.12.11/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.11/)|
 |[`5.12.10`](5.12.10)|[`README`](5.12.10/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.10/)|
 |[`5.12.9`](5.12.9)|[`README`](5.12.9/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.9/)|
 |[`5.12.8`](5.12.8)|[`README`](5.12.8/README.md)|[`kernel.ubuntu.com`](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.12.8/)|
