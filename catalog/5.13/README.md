@@ -1,24 +1,24 @@
-# linux 5.13.0
+# linux 5.13
 
 ## amd64
 
 ### install
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.0/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 ### remove
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.0/install.sh && chmod +x install.sh && sudo ./install.sh -r
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13/install.sh && chmod +x install.sh && sudo ./install.sh -r
 ```
 ## arm64
 
 ### install
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.0/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 ### remove
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.0/install.sh && chmod +x install.sh && sudo ./install.sh -r
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13/install.sh && chmod +x install.sh && sudo ./install.sh -r
 ```
 
 
