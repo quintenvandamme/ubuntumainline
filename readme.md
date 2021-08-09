@@ -21,37 +21,37 @@
 
 ### amd64
 
-**mainline kernel 5.13.8**
+**mainline kernel 5.13.9**
 
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.8/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.9/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
-**lts kernel 5.10.56**
+**lts kernel 5.10.57**
 
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.56/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.57/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
-**rc kernel 5.14-rc4**
+**rc kernel 5.14-rc5**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.14-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.14-rc5/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 
 ### arm64
 
-**mainline kernel 5.13.8**
+**mainline kernel 5.13.9**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.8/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.9/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**lts kernel 5.10.56**
+**lts kernel 5.10.57**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.56/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.10.57/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
-**rc kernel 5.14-rc4**
+**rc kernel 5.14-rc5**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.14-rc4/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.14-rc5/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 ## catalog
