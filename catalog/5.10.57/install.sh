@@ -1,53 +1,53 @@
-<div align="center">
+#! /usr/bin/env bash
 
-    <center align="center">
-      <img src="assets/Mainline-pink.svg" alt="ubuntumainline" align="center">
+KERNEL_VER="5.10.57"
+VER_STR="051057"
 
-  </a>
-  <br>
-  <h1 align="center"><center>Ubuntumainline</center></h1>
-  <h3 align="center"><center>Script for installing the latest mainline kernel on ubuntu and ubuntu based distros.</center></h3>
-  <br>
-  <br>
+while [[ $# -gt 0 ]]; do
+  PROG_ARGS+=("${1}")
+  case "${1}" in
+    -amd|--amd64)
+      mkdir /tmp/ubuntukernel$KERNEL_VER
+      cd /tmp/ubuntukernel$KERNEL_VER
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/amd64/linux-headers-5.10.57-051057-generic_5.10.57-051057.202108080439_amd64.deb
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/amd64/linux-headers-5.10.57-051057_5.10.57-051057.202108080439_all.deb
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/amd64/linux-image-unsigned-5.10.57-051057-generic_5.10.57-051057.202108080439_amd64.deb
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/amd64/linux-modules-5.10.57-051057-generic_5.10.57-051057.202108080439_amd64.deb
-### requirements
+      sudo dpkg -i *.deb
       cd
-- You wanna have [curl](https://curl.haxx.se/) and [wget](https://www.gnu.org/software/wget/) installed. If not you can do it by `sudo apt install curl wget`.
-- Its recommended to make a backup of your grub.cfg you can do it by `sudo cp /boot/grub/grub.cfg /boot/grub/grub.cfg.bak`.
-- **!** Note these kernels don't work with nvidia drivers. Your pc won't display on boot.
-
-### amd64
-
-**mainline kernel 5.13.9**
-
-```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.9/install.sh && chmod +x install.sh && sudo ./install.sh -amd
-  <br>
-  <br>
+      rm -r /tmp/ubuntukernel$KERNEL_VER
+      if [ -f "/boot/initrd.img-$KERNEL_VER-$VER_STR-generic" ] 
+      then
+          echo linux $KERNEL_VER is successfully installed!
+      else
+          echo an error occurred while installing
+      fi
+      break
+      ;;
+    -arm|--arm64)
+      mkdir /tmp/ubuntukernel$KERNEL_VER
+      cd /tmp/ubuntukernel$KERNEL_VER
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/arm64/linux-headers-5.10.57-051057-generic_5.10.57-051057.202108080439_arm64.deb
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/arm64/linux-image-unsigned-5.10.57-051057-generic_5.10.57-051057.202108080439_arm64.deb
       wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.57/amd64/linux-modules-5.10.57-051057-generic_5.10.57-051057.202108080439_amd64.deb
-### requirements
+      sudo dpkg -i *.deb
       cd
-- You wanna have [curl](https://curl.haxx.se/) and [wget](https://www.gnu.org/software/wget/) installed. If not you can do it by `sudo apt install curl wget`.
-
-```bash
-```
-
-### arm64
-
-**mainline kernel 5.13.9**
-```bash
-- Its recommended to make a backup of your grub.cfg you can do it by `sudo cp /boot/grub/grub.cfg /boot/grub/grub.cfg.bak`.
-- **!** Note these kernels don't work with nvidia drivers. Your pc won't display on boot.
-
-### amd64
-```bash
-**mainline kernel 5.13.9**
-
-```bash
-**rc kernel 5.14-rc5**
-```bash
+      rm -r /tmp/ubuntukernel$KERNEL_VER
+      break
+      ;;
+    -r|--remove)
+      echo only remove kernel if you have a newer one!
+      sleep 2
+      sudo apt remove linux-headers-$KERNEL_VER-$VER_STR
+      sudo apt remove linux-image-unsigned-$KERNEL_VER-$VER_STR-generic 
+      sudo apt remove linux-modules-$KERNEL_VER-$VER_STR-generic
+      if [ -f "/boot/initrd.img-$KERNEL_VER-$VER_STR-generic" ] 
+      then
+          echo linux $KERNEL_VER is successfully removed!
+      else
+          echo an error occurred while removing linux $KERNEL_VER
+      fi
+      break
+      ;;
+        esac
+done

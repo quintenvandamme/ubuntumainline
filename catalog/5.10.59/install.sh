@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
-KERNEL_VER="5.13.9"
-VER_STR="051309"
+KERNEL_VER="5.10.59"
+VER_STR="051059"
 
 while [[ $# -gt 0 ]]; do
   PROG_ARGS+=("${1}")
@@ -9,10 +9,10 @@ while [[ $# -gt 0 ]]; do
     -amd|--amd64)
       mkdir /tmp/ubuntukernel$KERNEL_VER
       cd /tmp/ubuntukernel$KERNEL_VER
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/amd64/linux-headers-5.13.9-051309-generic_5.13.9-051309.202108080438_amd64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/amd64/linux-headers-5.13.9-051309_5.13.9-051309.202108080438_all.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/amd64/linux-image-unsigned-5.13.9-051309-generic_5.13.9-051309.202108080438_amd64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/amd64/linux-modules-5.13.9-051309-generic_5.13.9-051309.202108080438_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/amd64/linux-headers-5.10.59-051059-generic_5.10.59-051059.202108151334_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/amd64/linux-headers-5.10.59-051059_5.10.59-051059.202108151334_all.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/amd64/linux-image-unsigned-5.10.59-051059-generic_5.10.59-051059.202108151334_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/amd64/linux-modules-5.10.59-051059-generic_5.10.59-051059.202108151334_amd64.deb
       sudo dpkg -i *.deb
       cd
       rm -r /tmp/ubuntukernel$KERNEL_VER
@@ -27,9 +27,9 @@ while [[ $# -gt 0 ]]; do
     -arm|--arm64)
       mkdir /tmp/ubuntukernel$KERNEL_VER
       cd /tmp/ubuntukernel$KERNEL_VER
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/arm64/linux-headers-5.13.9-051309-generic_5.13.9-051309.202108080438_arm64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/arm64/linux-image-unsigned-5.13.9-051309-generic_5.13.9-051309.202108080438_arm64.deb
-      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.13.9/amd64/linux-modules-5.13.9-051309-generic_5.13.9-051309.202108080438_amd64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/arm64/linux-headers-5.10.59-051059-generic_5.10.59-051059.202108151334_arm64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/arm64/linux-image-unsigned-5.10.59-051059-generic_5.10.59-051059.202108151334_arm64.deb
+      wget https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.10.59/amd64/linux-modules-5.10.59-051059-generic_5.10.59-051059.202108151334_amd64.deb
       sudo dpkg -i *.deb
       cd
       rm -r /tmp/ubuntukernel$KERNEL_VER
