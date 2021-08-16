@@ -21,10 +21,10 @@
 
 ### amd64
 
-**mainline kernel 5.13.9**
+**mainline kernel 5.13.11**
 
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.9/install.sh && chmod +x install.sh && sudo ./install.sh -amd
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.11/install.sh && chmod +x install.sh && sudo ./install.sh -amd
 ```
 **lts kernel 5.10.59**
 
@@ -39,9 +39,9 @@ cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/
 
 ### arm64
 
-**mainline kernel 5.13.9**
+**mainline kernel 5.13.11**
 ```bash
-cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.9/install.sh && chmod +x install.sh && sudo ./install.sh -arm
+cd /tmp/ && wget https://raw.githubusercontent.com/hexa-one/ubuntumainline/main/catalog/5.13.11/install.sh && chmod +x install.sh && sudo ./install.sh -arm
 ```
 
 **lts kernel 5.10.59**
